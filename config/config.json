@@ -1,0 +1,18 @@
+
+{
+    "debug_mode": false,
+    "memory_path": "memory/memory.json",
+    "compression_enabled": true,
+    "compression_interval": 60,
+    "isaw_ai" : {
+        "api_key": "your-api-key-here",
+        "base_url": "https://api.groq.com/openai/v1",
+        "model": "llama3-70b-8192"
+    },
+    "compress_api" : {
+        "api_key": "your-api-key-here",
+        "base_url": "https://api.groq.com/openai/v1",
+        "model": "llama3-70b-8192"
+    }
+}
+
